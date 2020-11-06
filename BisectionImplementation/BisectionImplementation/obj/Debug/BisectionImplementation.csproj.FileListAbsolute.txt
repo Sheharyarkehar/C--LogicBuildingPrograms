@@ -1,0 +1,9 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\BisectionImplementation\BisectionImplementation\bin\Debug\BisectionImplementation.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\BisectionImplementation\BisectionImplementation\bin\Debug\BisectionImplementation.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\BisectionImplementation\BisectionImplementation\bin\Debug\BisectionImplementation.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\BisectionImplementation\BisectionImplementation\obj\Debug\BisectionImplementation.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\BisectionImplementation\BisectionImplementation\obj\Debug\BisectionImplementation.Form1.resources
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\BisectionImplementation\BisectionImplementation\obj\Debug\BisectionImplementation.Properties.Resources.resources
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\BisectionImplementation\BisectionImplementation\obj\Debug\BisectionImplementation.csproj.GenerateResource.Cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\BisectionImplementation\BisectionImplementation\obj\Debug\BisectionImplementation.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\BisectionImplementation\BisectionImplementation\obj\Debug\BisectionImplementation.pdb

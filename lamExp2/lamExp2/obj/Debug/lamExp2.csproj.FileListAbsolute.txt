@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\lamExp2\lamExp2\bin\Debug\lamExp2.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\lamExp2\lamExp2\bin\Debug\lamExp2.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\lamExp2\lamExp2\bin\Debug\lamExp2.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\lamExp2\lamExp2\obj\Debug\lamExp2.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\lamExp2\lamExp2\obj\Debug\lamExp2.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\lamExp2\lamExp2\obj\Debug\lamExp2.csprojResolveAssemblyReference.cache

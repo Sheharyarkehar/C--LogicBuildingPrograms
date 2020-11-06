@@ -1,0 +1,5 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication36\ConsoleApplication36\bin\Debug\ConsoleApplication36.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication36\ConsoleApplication36\bin\Debug\ConsoleApplication36.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication36\ConsoleApplication36\bin\Debug\ConsoleApplication36.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication36\ConsoleApplication36\obj\Debug\ConsoleApplication36.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication36\ConsoleApplication36\obj\Debug\ConsoleApplication36.pdb

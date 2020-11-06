@@ -1,0 +1,6 @@
+c:\users\sogat\documents\visual studio 2012\Projects\carriage\carriage\bin\Debug\carriage.exe.config
+c:\users\sogat\documents\visual studio 2012\Projects\carriage\carriage\bin\Debug\carriage.exe
+c:\users\sogat\documents\visual studio 2012\Projects\carriage\carriage\bin\Debug\carriage.pdb
+c:\users\sogat\documents\visual studio 2012\Projects\carriage\carriage\obj\Debug\carriage.csprojResolveAssemblyReference.cache
+c:\users\sogat\documents\visual studio 2012\Projects\carriage\carriage\obj\Debug\carriage.exe
+c:\users\sogat\documents\visual studio 2012\Projects\carriage\carriage\obj\Debug\carriage.pdb

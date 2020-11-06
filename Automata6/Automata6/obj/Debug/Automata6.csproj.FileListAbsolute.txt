@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Automata6\Automata6\bin\Debug\Automata6.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Automata6\Automata6\obj\Debug\Automata6.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Automata6\Automata6\bin\Debug\Automata6.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Automata6\Automata6\bin\Debug\Automata6.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Automata6\Automata6\obj\Debug\Automata6.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Automata6\Automata6\obj\Debug\Automata6.pdb

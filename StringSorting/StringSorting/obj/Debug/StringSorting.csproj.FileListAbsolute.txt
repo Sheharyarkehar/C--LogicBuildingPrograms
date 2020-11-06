@@ -1,0 +1,5 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\StringSorting\StringSorting\bin\Debug\StringSorting.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\StringSorting\StringSorting\bin\Debug\StringSorting.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\StringSorting\StringSorting\bin\Debug\StringSorting.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\StringSorting\StringSorting\obj\Debug\StringSorting.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\StringSorting\StringSorting\obj\Debug\StringSorting.pdb

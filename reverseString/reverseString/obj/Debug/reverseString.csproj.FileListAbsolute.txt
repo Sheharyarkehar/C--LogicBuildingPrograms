@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\reverseString\reverseString\bin\Debug\reverseString.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\reverseString\reverseString\bin\Debug\reverseString.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\reverseString\reverseString\bin\Debug\reverseString.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\reverseString\reverseString\obj\Debug\reverseString.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\reverseString\reverseString\obj\Debug\reverseString.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\reverseString\reverseString\obj\Debug\reverseString.pdb

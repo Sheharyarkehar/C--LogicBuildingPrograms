@@ -1,0 +1,6 @@
+c:\users\sogat\documents\visual studio 2012\Projects\MatchSticks\MatchSticks\bin\Debug\MatchSticks.exe.config
+c:\users\sogat\documents\visual studio 2012\Projects\MatchSticks\MatchSticks\bin\Debug\MatchSticks.exe
+c:\users\sogat\documents\visual studio 2012\Projects\MatchSticks\MatchSticks\bin\Debug\MatchSticks.pdb
+c:\users\sogat\documents\visual studio 2012\Projects\MatchSticks\MatchSticks\obj\Debug\MatchSticks.csprojResolveAssemblyReference.cache
+c:\users\sogat\documents\visual studio 2012\Projects\MatchSticks\MatchSticks\obj\Debug\MatchSticks.exe
+c:\users\sogat\documents\visual studio 2012\Projects\MatchSticks\MatchSticks\obj\Debug\MatchSticks.pdb

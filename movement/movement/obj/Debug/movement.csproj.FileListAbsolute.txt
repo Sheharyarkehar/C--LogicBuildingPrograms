@@ -1,0 +1,9 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\movement\movement\bin\Debug\movement.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\movement\movement\bin\Debug\movement.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\movement\movement\bin\Debug\movement.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\movement\movement\obj\Debug\movement.Form1.resources
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\movement\movement\obj\Debug\movement.Properties.Resources.resources
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\movement\movement\obj\Debug\movement.csproj.GenerateResource.Cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\movement\movement\obj\Debug\movement.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\movement\movement\obj\Debug\movement.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\movement\movement\obj\Debug\movement.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\DateTime\DateTime\bin\Debug\DateTime.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\DateTime\DateTime\obj\Debug\DateTime.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\DateTime\DateTime\bin\Debug\DateTime.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\DateTime\DateTime\bin\Debug\DateTime.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\DateTime\DateTime\obj\Debug\DateTime.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\DateTime\DateTime\obj\Debug\DateTime.pdb

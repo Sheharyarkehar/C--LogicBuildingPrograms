@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\String(Automata1)\String(Automata1)\bin\Debug\String(Automata1).exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\String(Automata1)\String(Automata1)\bin\Debug\String(Automata1).exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\String(Automata1)\String(Automata1)\bin\Debug\String(Automata1).pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\String(Automata1)\String(Automata1)\obj\Debug\String(Automata1).csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\String(Automata1)\String(Automata1)\obj\Debug\String(Automata1).exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\String(Automata1)\String(Automata1)\obj\Debug\String(Automata1).pdb

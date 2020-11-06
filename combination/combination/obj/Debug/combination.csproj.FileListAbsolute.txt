@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\combination\combination\bin\Debug\combination.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\combination\combination\bin\Debug\combination.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\combination\combination\bin\Debug\combination.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\combination\combination\obj\Debug\combination.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\combination\combination\obj\Debug\combination.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\combination\combination\obj\Debug\combination.csprojResolveAssemblyReference.cache

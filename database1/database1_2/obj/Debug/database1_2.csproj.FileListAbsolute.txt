@@ -1,0 +1,9 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\database1\database1_2\bin\Debug\database1_2.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\database1\database1_2\bin\Debug\database1_2.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\database1\database1_2\bin\Debug\database1_2.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\database1\database1_2\obj\Debug\database1_2.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\database1\database1_2\obj\Debug\database1_2.ManageData.resources
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\database1\database1_2\obj\Debug\database1_2.Properties.Resources.resources
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\database1\database1_2\obj\Debug\database1_2.csproj.GenerateResource.Cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\database1\database1_2\obj\Debug\database1_2.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\database1\database1_2\obj\Debug\database1_2.pdb

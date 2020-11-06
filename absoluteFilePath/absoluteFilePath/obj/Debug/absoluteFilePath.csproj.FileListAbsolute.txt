@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\absoluteFilePath\absoluteFilePath\bin\Debug\absoluteFilePath.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\absoluteFilePath\absoluteFilePath\bin\Debug\absoluteFilePath.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\absoluteFilePath\absoluteFilePath\bin\Debug\absoluteFilePath.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\absoluteFilePath\absoluteFilePath\obj\Debug\absoluteFilePath.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\absoluteFilePath\absoluteFilePath\obj\Debug\absoluteFilePath.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\absoluteFilePath\absoluteFilePath\obj\Debug\absoluteFilePath.pdb

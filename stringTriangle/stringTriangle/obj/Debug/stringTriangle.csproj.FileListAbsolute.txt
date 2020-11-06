@@ -1,0 +1,5 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\stringTriangle\stringTriangle\bin\Debug\stringTriangle.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\stringTriangle\stringTriangle\bin\Debug\stringTriangle.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\stringTriangle\stringTriangle\bin\Debug\stringTriangle.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\stringTriangle\stringTriangle\obj\Debug\stringTriangle.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\stringTriangle\stringTriangle\obj\Debug\stringTriangle.pdb

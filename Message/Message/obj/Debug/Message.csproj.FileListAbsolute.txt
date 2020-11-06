@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Message\Message\bin\Debug\Message.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Message\Message\bin\Debug\Message.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Message\Message\bin\Debug\Message.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Message\Message\obj\Debug\Message.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Message\Message\obj\Debug\Message.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Message\Message\obj\Debug\Message.pdb

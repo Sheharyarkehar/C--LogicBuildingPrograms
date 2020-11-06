@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\automata9\automata9\bin\Debug\automata9.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\automata9\automata9\bin\Debug\automata9.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\automata9\automata9\bin\Debug\automata9.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\automata9\automata9\obj\Debug\automata9.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\automata9\automata9\obj\Debug\automata9.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\automata9\automata9\obj\Debug\automata9.csprojResolveAssemblyReference.cache

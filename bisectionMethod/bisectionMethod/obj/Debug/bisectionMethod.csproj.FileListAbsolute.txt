@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\bisectionMethod\bisectionMethod\bin\Debug\bisectionMethod.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\bisectionMethod\bisectionMethod\obj\Debug\bisectionMethod.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\bisectionMethod\bisectionMethod\bin\Debug\bisectionMethod.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\bisectionMethod\bisectionMethod\bin\Debug\bisectionMethod.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\bisectionMethod\bisectionMethod\obj\Debug\bisectionMethod.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\bisectionMethod\bisectionMethod\obj\Debug\bisectionMethod.pdb

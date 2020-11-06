@@ -1,0 +1,5 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\vowels_case\vowels_case\bin\Debug\vowels_case.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\vowels_case\vowels_case\bin\Debug\vowels_case.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\vowels_case\vowels_case\bin\Debug\vowels_case.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\vowels_case\vowels_case\obj\Debug\vowels_case.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\vowels_case\vowels_case\obj\Debug\vowels_case.pdb

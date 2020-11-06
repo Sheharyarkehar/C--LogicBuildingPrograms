@@ -1,0 +1,10 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\btry\btry\bin\Debug\btry.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\btry\btry\bin\Debug\btry.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\btry\btry\bin\Debug\btry.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\btry\btry\bin\Debug\MathParser.org-mXparser.dll
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\btry\btry\obj\Debug\btry.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\btry\btry\obj\Debug\btry.Form1.resources
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\btry\btry\obj\Debug\btry.Properties.Resources.resources
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\btry\btry\obj\Debug\btry.csproj.GenerateResource.Cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\btry\btry\obj\Debug\btry.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\btry\btry\obj\Debug\btry.pdb

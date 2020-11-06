@@ -1,0 +1,9 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Structurequery\Structurequery\bin\Debug\Structurequery.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Structurequery\Structurequery\bin\Debug\Structurequery.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Structurequery\Structurequery\bin\Debug\Structurequery.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Structurequery\Structurequery\obj\Debug\Structurequery.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Structurequery\Structurequery\obj\Debug\Structurequery.Form1.resources
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Structurequery\Structurequery\obj\Debug\Structurequery.Properties.Resources.resources
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Structurequery\Structurequery\obj\Debug\Structurequery.csproj.GenerateResource.Cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Structurequery\Structurequery\obj\Debug\Structurequery.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Structurequery\Structurequery\obj\Debug\Structurequery.pdb

@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\consoleWindowsForms\consoleWindowsForms\bin\Debug\consoleWindowsForms.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\consoleWindowsForms\consoleWindowsForms\bin\Debug\consoleWindowsForms.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\consoleWindowsForms\consoleWindowsForms\bin\Debug\consoleWindowsForms.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\consoleWindowsForms\consoleWindowsForms\obj\Debug\consoleWindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\consoleWindowsForms\consoleWindowsForms\obj\Debug\consoleWindowsForms.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\consoleWindowsForms\consoleWindowsForms\obj\Debug\consoleWindowsForms.pdb

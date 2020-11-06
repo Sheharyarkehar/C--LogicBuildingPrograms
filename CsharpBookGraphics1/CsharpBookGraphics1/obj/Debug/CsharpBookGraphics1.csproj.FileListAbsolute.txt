@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\CsharpBookGraphics1\CsharpBookGraphics1\bin\Debug\CsharpBookGraphics1.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\CsharpBookGraphics1\CsharpBookGraphics1\obj\Debug\CsharpBookGraphics1.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\CsharpBookGraphics1\CsharpBookGraphics1\bin\Debug\CsharpBookGraphics1.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\CsharpBookGraphics1\CsharpBookGraphics1\bin\Debug\CsharpBookGraphics1.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\CsharpBookGraphics1\CsharpBookGraphics1\obj\Debug\CsharpBookGraphics1.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\CsharpBookGraphics1\CsharpBookGraphics1\obj\Debug\CsharpBookGraphics1.pdb

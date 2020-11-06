@@ -1,0 +1,17 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\checking\checking\bin\Debug\checking.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\checking\checking\bin\Debug\checking.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\checking\checking\bin\Debug\checking.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\checking\checking\obj\Debug\checking.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\checking\checking\obj\Debug\checking.Form1.resources
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\checking\checking\obj\Debug\checking.Properties.Resources.resources
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\checking\checking\obj\Debug\checking.csproj.GenerateResource.Cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\checking\checking\obj\Debug\checking.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\checking\checking\obj\Debug\checking.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\checking\checking\obj\Debug\checking.chartOfAccount.resources
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\checking\checking\obj\Debug\checking.Form2.resources
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\checking\checking\obj\Debug\checking.ledgershowing.resources
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\checking\checking\bin\Debug\ObjectListView.dll
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\checking\checking\bin\Debug\ObjectListView.xml
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\checking\checking\obj\Debug\checking.hamzacs.resources
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\checking\checking\obj\Debug\checking.Hamza1.resources
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\checking\checking\obj\Debug\checking.ExcelTrying.resources

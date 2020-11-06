@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Automata(DFA program)\Automata(DFA program)\bin\Debug\Automata(DFA program).exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Automata(DFA program)\Automata(DFA program)\bin\Debug\Automata(DFA program).exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Automata(DFA program)\Automata(DFA program)\bin\Debug\Automata(DFA program).pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Automata(DFA program)\Automata(DFA program)\obj\Debug\Automata(DFA program).csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Automata(DFA program)\Automata(DFA program)\obj\Debug\Automata(DFA program).exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Automata(DFA program)\Automata(DFA program)\obj\Debug\Automata(DFA program).pdb

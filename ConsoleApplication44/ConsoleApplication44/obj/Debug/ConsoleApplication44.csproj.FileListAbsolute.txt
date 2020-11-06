@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication44\ConsoleApplication44\bin\Debug\ConsoleApplication44.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication44\ConsoleApplication44\bin\Debug\ConsoleApplication44.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication44\ConsoleApplication44\bin\Debug\ConsoleApplication44.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication44\ConsoleApplication44\obj\Debug\ConsoleApplication44.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication44\ConsoleApplication44\obj\Debug\ConsoleApplication44.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication44\ConsoleApplication44\obj\Debug\ConsoleApplication44.pdb

@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Time\Time\bin\Debug\Time.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Time\Time\bin\Debug\Time.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Time\Time\bin\Debug\Time.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Time\Time\obj\Debug\Time.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Time\Time\obj\Debug\Time.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Time\Time\obj\Debug\Time.pdb

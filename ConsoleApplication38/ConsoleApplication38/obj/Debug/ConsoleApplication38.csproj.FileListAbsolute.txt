@@ -1,0 +1,5 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication38\ConsoleApplication38\bin\Debug\ConsoleApplication38.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication38\ConsoleApplication38\bin\Debug\ConsoleApplication38.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication38\ConsoleApplication38\bin\Debug\ConsoleApplication38.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication38\ConsoleApplication38\obj\Debug\ConsoleApplication38.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication38\ConsoleApplication38\obj\Debug\ConsoleApplication38.pdb

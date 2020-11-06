@@ -1,0 +1,5 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\MyMathsClass\MyMathsClass\bin\Debug\MyMathsClass.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\MyMathsClass\MyMathsClass\bin\Debug\MyMathsClass.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\MyMathsClass\MyMathsClass\bin\Debug\MyMathsClass.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\MyMathsClass\MyMathsClass\obj\Debug\MyMathsClass.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\MyMathsClass\MyMathsClass\obj\Debug\MyMathsClass.pdb

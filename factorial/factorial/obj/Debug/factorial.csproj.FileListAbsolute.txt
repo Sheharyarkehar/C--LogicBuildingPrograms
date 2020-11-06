@@ -1,0 +1,6 @@
+c:\users\sogat\documents\visual studio 2012\Projects\factorial\factorial\bin\Debug\factorial.exe.config
+c:\users\sogat\documents\visual studio 2012\Projects\factorial\factorial\bin\Debug\factorial.exe
+c:\users\sogat\documents\visual studio 2012\Projects\factorial\factorial\bin\Debug\factorial.pdb
+c:\users\sogat\documents\visual studio 2012\Projects\factorial\factorial\obj\Debug\factorial.csprojResolveAssemblyReference.cache
+c:\users\sogat\documents\visual studio 2012\Projects\factorial\factorial\obj\Debug\factorial.exe
+c:\users\sogat\documents\visual studio 2012\Projects\factorial\factorial\obj\Debug\factorial.pdb

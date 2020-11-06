@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\SUNDAS_ASSIGNMENT\SUNDAS_ASSIGNMENT\bin\Debug\SUNDAS_ASSIGNMENT.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\SUNDAS_ASSIGNMENT\SUNDAS_ASSIGNMENT\bin\Debug\SUNDAS_ASSIGNMENT.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\SUNDAS_ASSIGNMENT\SUNDAS_ASSIGNMENT\bin\Debug\SUNDAS_ASSIGNMENT.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\SUNDAS_ASSIGNMENT\SUNDAS_ASSIGNMENT\obj\Debug\SUNDAS_ASSIGNMENT.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\SUNDAS_ASSIGNMENT\SUNDAS_ASSIGNMENT\obj\Debug\SUNDAS_ASSIGNMENT.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\SUNDAS_ASSIGNMENT\SUNDAS_ASSIGNMENT\obj\Debug\SUNDAS_ASSIGNMENT.pdb

@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Automat10\Automat10\bin\Debug\Automat10.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Automat10\Automat10\obj\Debug\Automat10.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Automat10\Automat10\bin\Debug\Automat10.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Automat10\Automat10\bin\Debug\Automat10.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Automat10\Automat10\obj\Debug\Automat10.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Automat10\Automat10\obj\Debug\Automat10.pdb

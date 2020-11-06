@@ -1,0 +1,5 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication46\ConsoleApplication46\bin\Debug\ConsoleApplication46.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication46\ConsoleApplication46\bin\Debug\ConsoleApplication46.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication46\ConsoleApplication46\bin\Debug\ConsoleApplication46.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication46\ConsoleApplication46\obj\Debug\ConsoleApplication46.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication46\ConsoleApplication46\obj\Debug\ConsoleApplication46.pdb

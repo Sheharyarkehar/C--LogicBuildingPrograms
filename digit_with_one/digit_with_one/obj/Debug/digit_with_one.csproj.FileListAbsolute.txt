@@ -1,0 +1,6 @@
+c:\users\sogat\documents\visual studio 2012\Projects\digit_with_one\digit_with_one\bin\Debug\digit_with_one.exe.config
+c:\users\sogat\documents\visual studio 2012\Projects\digit_with_one\digit_with_one\bin\Debug\digit_with_one.exe
+c:\users\sogat\documents\visual studio 2012\Projects\digit_with_one\digit_with_one\bin\Debug\digit_with_one.pdb
+c:\users\sogat\documents\visual studio 2012\Projects\digit_with_one\digit_with_one\obj\Debug\digit_with_one.csprojResolveAssemblyReference.cache
+c:\users\sogat\documents\visual studio 2012\Projects\digit_with_one\digit_with_one\obj\Debug\digit_with_one.exe
+c:\users\sogat\documents\visual studio 2012\Projects\digit_with_one\digit_with_one\obj\Debug\digit_with_one.pdb

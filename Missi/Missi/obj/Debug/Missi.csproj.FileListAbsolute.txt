@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Missi\Missi\bin\Debug\Missi.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Missi\Missi\bin\Debug\Missi.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Missi\Missi\bin\Debug\Missi.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Missi\Missi\obj\Debug\Missi.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Missi\Missi\obj\Debug\Missi.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Missi\Missi\obj\Debug\Missi.csprojResolveAssemblyReference.cache

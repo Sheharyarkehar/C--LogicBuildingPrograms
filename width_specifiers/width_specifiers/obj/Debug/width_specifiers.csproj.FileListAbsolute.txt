@@ -1,0 +1,6 @@
+c:\users\sogat\documents\visual studio 2012\Projects\width_specifiers\width_specifiers\bin\Debug\width_specifiers.exe.config
+c:\users\sogat\documents\visual studio 2012\Projects\width_specifiers\width_specifiers\bin\Debug\width_specifiers.exe
+c:\users\sogat\documents\visual studio 2012\Projects\width_specifiers\width_specifiers\bin\Debug\width_specifiers.pdb
+c:\users\sogat\documents\visual studio 2012\Projects\width_specifiers\width_specifiers\obj\Debug\width_specifiers.csprojResolveAssemblyReference.cache
+c:\users\sogat\documents\visual studio 2012\Projects\width_specifiers\width_specifiers\obj\Debug\width_specifiers.exe
+c:\users\sogat\documents\visual studio 2012\Projects\width_specifiers\width_specifiers\obj\Debug\width_specifiers.pdb

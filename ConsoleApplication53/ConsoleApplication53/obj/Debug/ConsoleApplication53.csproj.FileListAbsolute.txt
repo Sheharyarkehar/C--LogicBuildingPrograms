@@ -1,0 +1,2 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication53\ConsoleApplication53\bin\Debug\ConsoleApplication53.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication53\ConsoleApplication53\obj\Debug\ConsoleApplication53.csprojResolveAssemblyReference.cache

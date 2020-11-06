@@ -1,0 +1,6 @@
+c:\users\sogat\documents\visual studio 2012\Projects\fab\fab\bin\Debug\fab.exe.config
+c:\users\sogat\documents\visual studio 2012\Projects\fab\fab\bin\Debug\fab.exe
+c:\users\sogat\documents\visual studio 2012\Projects\fab\fab\bin\Debug\fab.pdb
+c:\users\sogat\documents\visual studio 2012\Projects\fab\fab\obj\Debug\fab.csprojResolveAssemblyReference.cache
+c:\users\sogat\documents\visual studio 2012\Projects\fab\fab\obj\Debug\fab.exe
+c:\users\sogat\documents\visual studio 2012\Projects\fab\fab\obj\Debug\fab.pdb

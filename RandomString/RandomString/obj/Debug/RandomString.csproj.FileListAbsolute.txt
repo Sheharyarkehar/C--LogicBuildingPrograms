@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\RandomString\RandomString\bin\Debug\RandomString.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\RandomString\RandomString\bin\Debug\RandomString.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\RandomString\RandomString\bin\Debug\RandomString.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\RandomString\RandomString\obj\Debug\RandomString.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\RandomString\RandomString\obj\Debug\RandomString.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\RandomString\RandomString\obj\Debug\RandomString.pdb

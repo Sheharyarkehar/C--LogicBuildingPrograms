@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\TestWalaPattern\TestWalaPattern\bin\Debug\TestWalaPattern.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\TestWalaPattern\TestWalaPattern\bin\Debug\TestWalaPattern.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\TestWalaPattern\TestWalaPattern\bin\Debug\TestWalaPattern.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\TestWalaPattern\TestWalaPattern\obj\Debug\TestWalaPattern.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\TestWalaPattern\TestWalaPattern\obj\Debug\TestWalaPattern.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\TestWalaPattern\TestWalaPattern\obj\Debug\TestWalaPattern.pdb

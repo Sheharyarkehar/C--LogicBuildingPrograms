@@ -1,0 +1,6 @@
+c:\users\sogat\documents\visual studio 2012\Projects\fabnoci series\fabnoci series\bin\Debug\fabnoci series.exe.config
+c:\users\sogat\documents\visual studio 2012\Projects\fabnoci series\fabnoci series\bin\Debug\fabnoci series.exe
+c:\users\sogat\documents\visual studio 2012\Projects\fabnoci series\fabnoci series\bin\Debug\fabnoci series.pdb
+c:\users\sogat\documents\visual studio 2012\Projects\fabnoci series\fabnoci series\obj\Debug\fabnoci series.exe
+c:\users\sogat\documents\visual studio 2012\Projects\fabnoci series\fabnoci series\obj\Debug\fabnoci series.pdb
+c:\users\sogat\documents\visual studio 2012\Projects\fabnoci series\fabnoci series\obj\Debug\fabnoci series.csprojResolveAssemblyReference.cache

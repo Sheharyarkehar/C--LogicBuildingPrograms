@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Automata5\Automata5\bin\Debug\Automata5.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Automata5\Automata5\obj\Debug\Automata5.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Automata5\Automata5\bin\Debug\Automata5.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Automata5\Automata5\bin\Debug\Automata5.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Automata5\Automata5\obj\Debug\Automata5.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Automata5\Automata5\obj\Debug\Automata5.pdb

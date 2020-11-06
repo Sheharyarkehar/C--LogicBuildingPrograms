@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\structsss\structsss\bin\Debug\structsss.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\structsss\structsss\bin\Debug\structsss.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\structsss\structsss\bin\Debug\structsss.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\structsss\structsss\obj\Debug\structsss.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\structsss\structsss\obj\Debug\structsss.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\structsss\structsss\obj\Debug\structsss.pdb

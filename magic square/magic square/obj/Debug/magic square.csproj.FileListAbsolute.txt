@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\magic square\magic square\bin\Debug\magic square.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\magic square\magic square\bin\Debug\magic square.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\magic square\magic square\bin\Debug\magic square.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\magic square\magic square\obj\Debug\magic square.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\magic square\magic square\obj\Debug\magic square.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\magic square\magic square\obj\Debug\magic square.pdb

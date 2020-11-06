@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\2dArrayimplement\2dArrayimplement\bin\Debug\2dArrayimplement.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\2dArrayimplement\2dArrayimplement\bin\Debug\2dArrayimplement.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\2dArrayimplement\2dArrayimplement\bin\Debug\2dArrayimplement.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\2dArrayimplement\2dArrayimplement\obj\Debug\2dArrayimplement.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\2dArrayimplement\2dArrayimplement\obj\Debug\2dArrayimplement.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\2dArrayimplement\2dArrayimplement\obj\Debug\2dArrayimplement.pdb

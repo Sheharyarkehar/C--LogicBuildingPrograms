@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\table_loops\table_loops\bin\Debug\table_loops.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\table_loops\table_loops\bin\Debug\table_loops.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\table_loops\table_loops\bin\Debug\table_loops.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\table_loops\table_loops\obj\Debug\table_loops.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\table_loops\table_loops\obj\Debug\table_loops.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\table_loops\table_loops\obj\Debug\table_loops.csprojResolveAssemblyReference.cache

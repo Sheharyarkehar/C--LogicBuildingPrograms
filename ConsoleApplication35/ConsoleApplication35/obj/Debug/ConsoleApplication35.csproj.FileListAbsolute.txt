@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication35\ConsoleApplication35\bin\Debug\ConsoleApplication35.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication35\ConsoleApplication35\bin\Debug\ConsoleApplication35.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication35\ConsoleApplication35\bin\Debug\ConsoleApplication35.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication35\ConsoleApplication35\obj\Debug\ConsoleApplication35.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication35\ConsoleApplication35\obj\Debug\ConsoleApplication35.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication35\ConsoleApplication35\obj\Debug\ConsoleApplication35.pdb

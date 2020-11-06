@@ -1,0 +1,6 @@
+c:\users\sogat\documents\visual studio 2012\Projects\char_list_print\char_list_print\bin\Debug\char_list_print.exe.config
+c:\users\sogat\documents\visual studio 2012\Projects\char_list_print\char_list_print\bin\Debug\char_list_print.exe
+c:\users\sogat\documents\visual studio 2012\Projects\char_list_print\char_list_print\bin\Debug\char_list_print.pdb
+c:\users\sogat\documents\visual studio 2012\Projects\char_list_print\char_list_print\obj\Debug\char_list_print.csprojResolveAssemblyReference.cache
+c:\users\sogat\documents\visual studio 2012\Projects\char_list_print\char_list_print\obj\Debug\char_list_print.exe
+c:\users\sogat\documents\visual studio 2012\Projects\char_list_print\char_list_print\obj\Debug\char_list_print.pdb

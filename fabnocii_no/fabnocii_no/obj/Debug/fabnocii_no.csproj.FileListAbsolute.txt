@@ -1,0 +1,5 @@
+c:\users\sogat\documents\visual studio 2012\Projects\fabnocii_no\fabnocii_no\bin\Debug\fabnocii_no.exe.config
+c:\users\sogat\documents\visual studio 2012\Projects\fabnocii_no\fabnocii_no\bin\Debug\fabnocii_no.exe
+c:\users\sogat\documents\visual studio 2012\Projects\fabnocii_no\fabnocii_no\bin\Debug\fabnocii_no.pdb
+c:\users\sogat\documents\visual studio 2012\Projects\fabnocii_no\fabnocii_no\obj\Debug\fabnocii_no.exe
+c:\users\sogat\documents\visual studio 2012\Projects\fabnocii_no\fabnocii_no\obj\Debug\fabnocii_no.pdb

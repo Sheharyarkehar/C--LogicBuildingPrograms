@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\vovels\vovels\bin\Debug\vovels.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\vovels\vovels\bin\Debug\vovels.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\vovels\vovels\bin\Debug\vovels.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\vovels\vovels\obj\Debug\vovels.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\vovels\vovels\obj\Debug\vovels.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\vovels\vovels\obj\Debug\vovels.pdb

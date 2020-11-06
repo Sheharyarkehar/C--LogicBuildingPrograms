@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\muzmmilautomata\muzmmilautomata\bin\Debug\muzmmilautomata.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\muzmmilautomata\muzmmilautomata\obj\Debug\muzmmilautomata.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\muzmmilautomata\muzmmilautomata\bin\Debug\muzmmilautomata.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\muzmmilautomata\muzmmilautomata\bin\Debug\muzmmilautomata.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\muzmmilautomata\muzmmilautomata\obj\Debug\muzmmilautomata.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\muzmmilautomata\muzmmilautomata\obj\Debug\muzmmilautomata.pdb

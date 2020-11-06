@@ -1,0 +1,6 @@
+c:\users\sogat\documents\visual studio 2012\Projects\pop_prob\pop_prob\bin\Debug\pop_prob.exe.config
+c:\users\sogat\documents\visual studio 2012\Projects\pop_prob\pop_prob\bin\Debug\pop_prob.exe
+c:\users\sogat\documents\visual studio 2012\Projects\pop_prob\pop_prob\bin\Debug\pop_prob.pdb
+c:\users\sogat\documents\visual studio 2012\Projects\pop_prob\pop_prob\obj\Debug\pop_prob.csprojResolveAssemblyReference.cache
+c:\users\sogat\documents\visual studio 2012\Projects\pop_prob\pop_prob\obj\Debug\pop_prob.exe
+c:\users\sogat\documents\visual studio 2012\Projects\pop_prob\pop_prob\obj\Debug\pop_prob.pdb

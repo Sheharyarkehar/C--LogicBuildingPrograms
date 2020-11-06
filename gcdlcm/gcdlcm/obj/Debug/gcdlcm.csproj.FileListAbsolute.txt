@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\gcdlcm\gcdlcm\bin\Debug\gcdlcm.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\gcdlcm\gcdlcm\bin\Debug\gcdlcm.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\gcdlcm\gcdlcm\bin\Debug\gcdlcm.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\gcdlcm\gcdlcm\obj\Debug\gcdlcm.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\gcdlcm\gcdlcm\obj\Debug\gcdlcm.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\gcdlcm\gcdlcm\obj\Debug\gcdlcm.pdb

@@ -1,0 +1,7 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication37\ConsoleApplication37\bin\Debug\ConsoleApplication37.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication37\ConsoleApplication37\bin\Debug\ConsoleApplication37.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication37\ConsoleApplication37\bin\Debug\ConsoleApplication37.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication37\ConsoleApplication37\bin\Debug\MathParser.org-mXparser.dll
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication37\ConsoleApplication37\obj\Debug\ConsoleApplication37.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication37\ConsoleApplication37\obj\Debug\ConsoleApplication37.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication37\ConsoleApplication37\obj\Debug\ConsoleApplication37.pdb

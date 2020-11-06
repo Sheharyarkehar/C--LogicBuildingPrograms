@@ -1,0 +1,5 @@
+c:\users\sogat\documents\visual studio 2012\Projects\forloop\forloop\bin\Debug\forloop.exe.config
+c:\users\sogat\documents\visual studio 2012\Projects\forloop\forloop\bin\Debug\forloop.exe
+c:\users\sogat\documents\visual studio 2012\Projects\forloop\forloop\bin\Debug\forloop.pdb
+c:\users\sogat\documents\visual studio 2012\Projects\forloop\forloop\obj\Debug\forloop.exe
+c:\users\sogat\documents\visual studio 2012\Projects\forloop\forloop\obj\Debug\forloop.pdb

@@ -1,0 +1,5 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication47\ConsoleApplication47\bin\Debug\ConsoleApplication47.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication47\ConsoleApplication47\bin\Debug\ConsoleApplication47.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication47\ConsoleApplication47\bin\Debug\ConsoleApplication47.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication47\ConsoleApplication47\obj\Debug\ConsoleApplication47.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication47\ConsoleApplication47\obj\Debug\ConsoleApplication47.pdb

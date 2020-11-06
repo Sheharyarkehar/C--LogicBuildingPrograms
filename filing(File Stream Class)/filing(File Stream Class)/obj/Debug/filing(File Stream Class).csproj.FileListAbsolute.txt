@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\filing(File Stream Class)\filing(File Stream Class)\bin\Debug\filing(File Stream Class).exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\filing(File Stream Class)\filing(File Stream Class)\bin\Debug\filing(File Stream Class).exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\filing(File Stream Class)\filing(File Stream Class)\bin\Debug\filing(File Stream Class).pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\filing(File Stream Class)\filing(File Stream Class)\obj\Debug\filing(File Stream Class).csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\filing(File Stream Class)\filing(File Stream Class)\obj\Debug\filing(File Stream Class).exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\filing(File Stream Class)\filing(File Stream Class)\obj\Debug\filing(File Stream Class).pdb

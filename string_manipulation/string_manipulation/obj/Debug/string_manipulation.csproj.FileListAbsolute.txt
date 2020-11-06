@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\string_manipulation\string_manipulation\bin\Debug\string_manipulation.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\string_manipulation\string_manipulation\bin\Debug\string_manipulation.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\string_manipulation\string_manipulation\bin\Debug\string_manipulation.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\string_manipulation\string_manipulation\obj\Debug\string_manipulation.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\string_manipulation\string_manipulation\obj\Debug\string_manipulation.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\string_manipulation\string_manipulation\obj\Debug\string_manipulation.pdb

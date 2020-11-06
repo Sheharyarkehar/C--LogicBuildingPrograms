@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\NamedParameter\NamedParameter\bin\Debug\NamedParameter.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\NamedParameter\NamedParameter\bin\Debug\NamedParameter.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\NamedParameter\NamedParameter\bin\Debug\NamedParameter.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\NamedParameter\NamedParameter\obj\Debug\NamedParameter.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\NamedParameter\NamedParameter\obj\Debug\NamedParameter.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\NamedParameter\NamedParameter\obj\Debug\NamedParameter.pdb

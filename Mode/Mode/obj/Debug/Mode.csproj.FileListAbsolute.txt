@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Mode\Mode\bin\Debug\Mode.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Mode\Mode\bin\Debug\Mode.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Mode\Mode\bin\Debug\Mode.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Mode\Mode\obj\Debug\Mode.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Mode\Mode\obj\Debug\Mode.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Mode\Mode\obj\Debug\Mode.pdb

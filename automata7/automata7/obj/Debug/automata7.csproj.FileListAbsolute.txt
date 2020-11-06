@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\automata7\automata7\bin\Debug\automata7.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\automata7\automata7\bin\Debug\automata7.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\automata7\automata7\bin\Debug\automata7.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\automata7\automata7\obj\Debug\automata7.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\automata7\automata7\obj\Debug\automata7.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\automata7\automata7\obj\Debug\automata7.csprojResolveAssemblyReference.cache

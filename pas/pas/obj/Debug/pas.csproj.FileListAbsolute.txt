@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\pas\pas\bin\Debug\pas.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\pas\pas\bin\Debug\pas.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\pas\pas\bin\Debug\pas.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\pas\pas\obj\Debug\pas.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\pas\pas\obj\Debug\pas.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\pas\pas\obj\Debug\pas.pdb

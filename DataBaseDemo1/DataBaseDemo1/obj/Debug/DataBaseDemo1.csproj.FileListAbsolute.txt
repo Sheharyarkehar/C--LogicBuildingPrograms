@@ -1,0 +1,10 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\DataBaseDemo1\DataBaseDemo1\bin\Debug\DataBaseDemo1.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\DataBaseDemo1\DataBaseDemo1\bin\Debug\DataBaseDemo1.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\DataBaseDemo1\DataBaseDemo1\bin\Debug\DataBaseDemo1.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\DataBaseDemo1\DataBaseDemo1\obj\Debug\DataBaseDemo1.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\DataBaseDemo1\DataBaseDemo1\obj\Debug\DataBaseDemo1.ManageDataBase.resources
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\DataBaseDemo1\DataBaseDemo1\obj\Debug\DataBaseDemo1.Properties.Resources.resources
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\DataBaseDemo1\DataBaseDemo1\obj\Debug\DataBaseDemo1.StudentInforForm.resources
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\DataBaseDemo1\DataBaseDemo1\obj\Debug\DataBaseDemo1.csproj.GenerateResource.Cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\DataBaseDemo1\DataBaseDemo1\obj\Debug\DataBaseDemo1.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\DataBaseDemo1\DataBaseDemo1\obj\Debug\DataBaseDemo1.pdb

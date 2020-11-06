@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\stringSque\stringSque\bin\Debug\stringSque.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\stringSque\stringSque\bin\Debug\stringSque.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\stringSque\stringSque\bin\Debug\stringSque.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\stringSque\stringSque\obj\Debug\stringSque.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\stringSque\stringSque\obj\Debug\stringSque.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\stringSque\stringSque\obj\Debug\stringSque.pdb

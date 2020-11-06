@@ -1,0 +1,5 @@
+c:\users\sogat\documents\visual studio 2012\Projects\Alphabets\Alphabets\bin\Debug\Alphabets.exe.config
+c:\users\sogat\documents\visual studio 2012\Projects\Alphabets\Alphabets\bin\Debug\Alphabets.exe
+c:\users\sogat\documents\visual studio 2012\Projects\Alphabets\Alphabets\bin\Debug\Alphabets.pdb
+c:\users\sogat\documents\visual studio 2012\Projects\Alphabets\Alphabets\obj\Debug\Alphabets.exe
+c:\users\sogat\documents\visual studio 2012\Projects\Alphabets\Alphabets\obj\Debug\Alphabets.pdb

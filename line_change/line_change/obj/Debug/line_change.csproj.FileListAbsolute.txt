@@ -1,0 +1,6 @@
+c:\users\sogat\documents\visual studio 2012\Projects\line_change\line_change\bin\Debug\line_change.exe.config
+c:\users\sogat\documents\visual studio 2012\Projects\line_change\line_change\bin\Debug\line_change.exe
+c:\users\sogat\documents\visual studio 2012\Projects\line_change\line_change\bin\Debug\line_change.pdb
+c:\users\sogat\documents\visual studio 2012\Projects\line_change\line_change\obj\Debug\line_change.exe
+c:\users\sogat\documents\visual studio 2012\Projects\line_change\line_change\obj\Debug\line_change.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\line_change\line_change\obj\Debug\line_change.csprojResolveAssemblyReference.cache

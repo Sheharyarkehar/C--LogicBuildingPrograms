@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\fruit(instance of)\fruit(instance of)\bin\Debug\fruit(instance of).exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\fruit(instance of)\fruit(instance of)\bin\Debug\fruit(instance of).exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\fruit(instance of)\fruit(instance of)\bin\Debug\fruit(instance of).pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\fruit(instance of)\fruit(instance of)\obj\Debug\fruit(instance of).csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\fruit(instance of)\fruit(instance of)\obj\Debug\fruit(instance of).exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\fruit(instance of)\fruit(instance of)\obj\Debug\fruit(instance of).pdb

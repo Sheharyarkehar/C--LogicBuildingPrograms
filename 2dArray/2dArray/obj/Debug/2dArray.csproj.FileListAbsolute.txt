@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\2dArray\2dArray\bin\Debug\2dArray.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\2dArray\2dArray\bin\Debug\2dArray.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\2dArray\2dArray\bin\Debug\2dArray.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\2dArray\2dArray\obj\Debug\2dArray.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\2dArray\2dArray\obj\Debug\2dArray.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\2dArray\2dArray\obj\Debug\2dArray.pdb

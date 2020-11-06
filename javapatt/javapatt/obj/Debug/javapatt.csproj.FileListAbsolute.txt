@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\javapatt\javapatt\bin\Debug\javapatt.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\javapatt\javapatt\bin\Debug\javapatt.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\javapatt\javapatt\bin\Debug\javapatt.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\javapatt\javapatt\obj\Debug\javapatt.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\javapatt\javapatt\obj\Debug\javapatt.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\javapatt\javapatt\obj\Debug\javapatt.pdb

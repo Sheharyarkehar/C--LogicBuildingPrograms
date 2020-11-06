@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\binTodec\binTodec\bin\Debug\binTodec.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\binTodec\binTodec\bin\Debug\binTodec.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\binTodec\binTodec\bin\Debug\binTodec.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\binTodec\binTodec\obj\Debug\binTodec.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\binTodec\binTodec\obj\Debug\binTodec.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\binTodec\binTodec\obj\Debug\binTodec.pdb

@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\RegExp1\RegExp1\bin\Debug\RegExp1.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\RegExp1\RegExp1\obj\Debug\RegExp1.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\RegExp1\RegExp1\bin\Debug\RegExp1.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\RegExp1\RegExp1\bin\Debug\RegExp1.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\RegExp1\RegExp1\obj\Debug\RegExp1.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\RegExp1\RegExp1\obj\Debug\RegExp1.pdb

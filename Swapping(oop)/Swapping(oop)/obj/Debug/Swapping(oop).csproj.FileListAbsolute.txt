@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Swapping(oop)\Swapping(oop)\bin\Debug\Swapping(oop).exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Swapping(oop)\Swapping(oop)\bin\Debug\Swapping(oop).exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Swapping(oop)\Swapping(oop)\bin\Debug\Swapping(oop).pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Swapping(oop)\Swapping(oop)\obj\Debug\Swapping(oop).csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Swapping(oop)\Swapping(oop)\obj\Debug\Swapping(oop).exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Swapping(oop)\Swapping(oop)\obj\Debug\Swapping(oop).pdb

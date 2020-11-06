@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication33\ConsoleApplication33\bin\Debug\ConsoleApplication33.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication33\ConsoleApplication33\bin\Debug\ConsoleApplication33.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication33\ConsoleApplication33\bin\Debug\ConsoleApplication33.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication33\ConsoleApplication33\obj\Debug\ConsoleApplication33.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication33\ConsoleApplication33\obj\Debug\ConsoleApplication33.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication33\ConsoleApplication33\obj\Debug\ConsoleApplication33.pdb

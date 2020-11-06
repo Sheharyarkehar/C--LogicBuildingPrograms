@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\char_loop\char_loop\bin\Debug\char_loop.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\char_loop\char_loop\bin\Debug\char_loop.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\char_loop\char_loop\bin\Debug\char_loop.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\char_loop\char_loop\obj\Debug\char_loop.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\char_loop\char_loop\obj\Debug\char_loop.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\char_loop\char_loop\obj\Debug\char_loop.pdb

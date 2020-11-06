@@ -1,0 +1,14 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\remoteTry\remoteTry\bin\Debug\remoteTry.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\remoteTry\remoteTry\bin\Debug\remoteTry.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\remoteTry\remoteTry\bin\Debug\remoteTry.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\remoteTry\remoteTry\obj\Debug\remoteTry.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\remoteTry\remoteTry\obj\Debug\remoteTry.Form1.resources
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\remoteTry\remoteTry\obj\Debug\remoteTry.Properties.Resources.resources
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\remoteTry\remoteTry\obj\Debug\remoteTry.csproj.GenerateResource.Cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\remoteTry\remoteTry\obj\Debug\remoteTry.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\remoteTry\remoteTry\obj\Debug\remoteTry.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\remoteTry\remoteTry\bin\Debug\Interop.WMPLib.dll
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\remoteTry\remoteTry\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\remoteTry\remoteTry\obj\Debug\Interop.WMPLib.dll
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\remoteTry\remoteTry\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\remoteTry\remoteTry\obj\Debug\remoteTry.csproj.ResolveComReference.cache

@@ -1,0 +1,6 @@
+c:\users\sogat\documents\visual studio 2012\Projects\capital_to_smal\capital_to_smal\bin\Debug\capital_to_smal.exe.config
+c:\users\sogat\documents\visual studio 2012\Projects\capital_to_smal\capital_to_smal\bin\Debug\capital_to_smal.exe
+c:\users\sogat\documents\visual studio 2012\Projects\capital_to_smal\capital_to_smal\bin\Debug\capital_to_smal.pdb
+c:\users\sogat\documents\visual studio 2012\Projects\capital_to_smal\capital_to_smal\obj\Debug\capital_to_smal.exe
+c:\users\sogat\documents\visual studio 2012\Projects\capital_to_smal\capital_to_smal\obj\Debug\capital_to_smal.pdb
+c:\users\sogat\documents\visual studio 2012\Projects\capital_to_smal\capital_to_smal\obj\Debug\capital_to_smal.csprojResolveAssemblyReference.cache

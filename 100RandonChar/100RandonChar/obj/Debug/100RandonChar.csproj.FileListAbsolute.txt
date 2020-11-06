@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\100RandonChar\100RandonChar\bin\Debug\100RandonChar.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\100RandonChar\100RandonChar\bin\Debug\100RandonChar.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\100RandonChar\100RandonChar\bin\Debug\100RandonChar.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\100RandonChar\100RandonChar\obj\Debug\100RandonChar.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\100RandonChar\100RandonChar\obj\Debug\100RandonChar.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\100RandonChar\100RandonChar\obj\Debug\100RandonChar.pdb

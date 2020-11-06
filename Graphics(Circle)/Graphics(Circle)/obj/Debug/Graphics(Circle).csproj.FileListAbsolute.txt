@@ -1,0 +1,9 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Graphics(Circle)\Graphics(Circle)\bin\Debug\Graphics(Circle).exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Graphics(Circle)\Graphics(Circle)\bin\Debug\Graphics(Circle).exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Graphics(Circle)\Graphics(Circle)\bin\Debug\Graphics(Circle).pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Graphics(Circle)\Graphics(Circle)\obj\Debug\Graphics(Circle).csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Graphics(Circle)\Graphics(Circle)\obj\Debug\Graphics_Circle_.Form1.resources
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Graphics(Circle)\Graphics(Circle)\obj\Debug\Graphics_Circle_.Properties.Resources.resources
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Graphics(Circle)\Graphics(Circle)\obj\Debug\Graphics(Circle).csproj.GenerateResource.Cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Graphics(Circle)\Graphics(Circle)\obj\Debug\Graphics(Circle).exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Graphics(Circle)\Graphics(Circle)\obj\Debug\Graphics(Circle).pdb

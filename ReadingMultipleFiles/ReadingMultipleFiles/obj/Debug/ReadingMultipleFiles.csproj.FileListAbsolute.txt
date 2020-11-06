@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ReadingMultipleFiles\ReadingMultipleFiles\bin\Debug\ReadingMultipleFiles.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ReadingMultipleFiles\ReadingMultipleFiles\bin\Debug\ReadingMultipleFiles.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ReadingMultipleFiles\ReadingMultipleFiles\bin\Debug\ReadingMultipleFiles.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ReadingMultipleFiles\ReadingMultipleFiles\obj\Debug\ReadingMultipleFiles.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ReadingMultipleFiles\ReadingMultipleFiles\obj\Debug\ReadingMultipleFiles.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ReadingMultipleFiles\ReadingMultipleFiles\obj\Debug\ReadingMultipleFiles.pdb

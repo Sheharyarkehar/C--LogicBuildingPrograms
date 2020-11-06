@@ -1,0 +1,5 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\repeatedArray\repeatedArray\bin\Debug\repeatedArray.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\repeatedArray\repeatedArray\bin\Debug\repeatedArray.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\repeatedArray\repeatedArray\bin\Debug\repeatedArray.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\repeatedArray\repeatedArray\obj\Debug\repeatedArray.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\repeatedArray\repeatedArray\obj\Debug\repeatedArray.pdb

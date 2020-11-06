@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\pattern\pattern\bin\Debug\pattern.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\pattern\pattern\bin\Debug\pattern.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\pattern\pattern\bin\Debug\pattern.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\pattern\pattern\obj\Debug\pattern.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\pattern\pattern\obj\Debug\pattern.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\pattern\pattern\obj\Debug\pattern.pdb

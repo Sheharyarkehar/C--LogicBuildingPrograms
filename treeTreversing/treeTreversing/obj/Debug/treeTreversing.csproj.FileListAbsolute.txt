@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\treeTreversing\treeTreversing\bin\Debug\treeTreversing.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\treeTreversing\treeTreversing\bin\Debug\treeTreversing.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\treeTreversing\treeTreversing\bin\Debug\treeTreversing.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\treeTreversing\treeTreversing\obj\Debug\treeTreversing.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\treeTreversing\treeTreversing\obj\Debug\treeTreversing.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\treeTreversing\treeTreversing\obj\Debug\treeTreversing.pdb

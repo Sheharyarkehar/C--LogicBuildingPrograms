@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\insertionAtposition\insertionAtposition\bin\Debug\insertionAtposition.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\insertionAtposition\insertionAtposition\obj\Debug\insertionAtposition.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\insertionAtposition\insertionAtposition\bin\Debug\insertionAtposition.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\insertionAtposition\insertionAtposition\bin\Debug\insertionAtposition.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\insertionAtposition\insertionAtposition\obj\Debug\insertionAtposition.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\insertionAtposition\insertionAtposition\obj\Debug\insertionAtposition.pdb

@@ -1,0 +1,10 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\MentalHealthPatientInfoSystem\MentalHealthPatientInfoSystem\bin\Debug\MentalHealthPatientInfoSystem.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\MentalHealthPatientInfoSystem\MentalHealthPatientInfoSystem\bin\Debug\MentalHealthPatientInfoSystem.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\MentalHealthPatientInfoSystem\MentalHealthPatientInfoSystem\bin\Debug\MentalHealthPatientInfoSystem.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\MentalHealthPatientInfoSystem\MentalHealthPatientInfoSystem\obj\Debug\MentalHealthPatientInfoSystem.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\MentalHealthPatientInfoSystem\MentalHealthPatientInfoSystem\obj\Debug\MentalHealthPatientInfoSystem.Form1.resources
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\MentalHealthPatientInfoSystem\MentalHealthPatientInfoSystem\obj\Debug\MentalHealthPatientInfoSystem.Properties.Resources.resources
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\MentalHealthPatientInfoSystem\MentalHealthPatientInfoSystem\obj\Debug\MentalHealthPatientInfoSystem.csproj.GenerateResource.Cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\MentalHealthPatientInfoSystem\MentalHealthPatientInfoSystem\obj\Debug\MentalHealthPatientInfoSystem.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\MentalHealthPatientInfoSystem\MentalHealthPatientInfoSystem\obj\Debug\MentalHealthPatientInfoSystem.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\MentalHealthPatientInfoSystem\MentalHealthPatientInfoSystem\obj\Debug\MentalHealthPatientInfoSystem.form2.resources

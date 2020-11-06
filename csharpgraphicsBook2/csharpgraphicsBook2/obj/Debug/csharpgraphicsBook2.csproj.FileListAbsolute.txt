@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\csharpgraphicsBook2\csharpgraphicsBook2\bin\Debug\csharpgraphicsBook2.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\csharpgraphicsBook2\csharpgraphicsBook2\obj\Debug\csharpgraphicsBook2.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\csharpgraphicsBook2\csharpgraphicsBook2\bin\Debug\csharpgraphicsBook2.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\csharpgraphicsBook2\csharpgraphicsBook2\bin\Debug\csharpgraphicsBook2.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\csharpgraphicsBook2\csharpgraphicsBook2\obj\Debug\csharpgraphicsBook2.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\csharpgraphicsBook2\csharpgraphicsBook2\obj\Debug\csharpgraphicsBook2.pdb

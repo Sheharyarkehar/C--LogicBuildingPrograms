@@ -1,0 +1,9 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\PictureBox\PictureBox\bin\Debug\PictureBox.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\PictureBox\PictureBox\bin\Debug\PictureBox.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\PictureBox\PictureBox\bin\Debug\PictureBox.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\PictureBox\PictureBox\obj\Debug\PictureBox.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\PictureBox\PictureBox\obj\Debug\PictureBox.Form1.resources
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\PictureBox\PictureBox\obj\Debug\PictureBox.Properties.Resources.resources
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\PictureBox\PictureBox\obj\Debug\PictureBox.csproj.GenerateResource.Cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\PictureBox\PictureBox\obj\Debug\PictureBox.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\PictureBox\PictureBox\obj\Debug\PictureBox.pdb

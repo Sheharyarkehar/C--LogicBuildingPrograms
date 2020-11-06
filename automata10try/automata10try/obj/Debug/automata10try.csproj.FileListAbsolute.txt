@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\automata10try\automata10try\bin\Debug\automata10try.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\automata10try\automata10try\bin\Debug\automata10try.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\automata10try\automata10try\bin\Debug\automata10try.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\automata10try\automata10try\obj\Debug\automata10try.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\automata10try\automata10try\obj\Debug\automata10try.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\automata10try\automata10try\obj\Debug\automata10try.pdb

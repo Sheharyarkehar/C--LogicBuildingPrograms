@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\StudentsMarks2D\StudentsMarks2D\bin\Debug\StudentsMarks2D.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\StudentsMarks2D\StudentsMarks2D\bin\Debug\StudentsMarks2D.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\StudentsMarks2D\StudentsMarks2D\bin\Debug\StudentsMarks2D.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\StudentsMarks2D\StudentsMarks2D\obj\Debug\StudentsMarks2D.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\StudentsMarks2D\StudentsMarks2D\obj\Debug\StudentsMarks2D.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\StudentsMarks2D\StudentsMarks2D\obj\Debug\StudentsMarks2D.pdb

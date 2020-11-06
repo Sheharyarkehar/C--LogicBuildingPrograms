@@ -1,0 +1,5 @@
+c:\users\sogat\documents\visual studio 2012\Projects\weekday\weekday\bin\Debug\weekday.exe.config
+c:\users\sogat\documents\visual studio 2012\Projects\weekday\weekday\bin\Debug\weekday.exe
+c:\users\sogat\documents\visual studio 2012\Projects\weekday\weekday\bin\Debug\weekday.pdb
+c:\users\sogat\documents\visual studio 2012\Projects\weekday\weekday\obj\Debug\weekday.exe
+c:\users\sogat\documents\visual studio 2012\Projects\weekday\weekday\obj\Debug\weekday.pdb

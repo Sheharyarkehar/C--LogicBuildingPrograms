@@ -1,0 +1,5 @@
+c:\users\sogat\documents\visual studio 2012\Projects\AMSTROM\AMSTROM\bin\Debug\AMSTROM.exe.config
+c:\users\sogat\documents\visual studio 2012\Projects\AMSTROM\AMSTROM\bin\Debug\AMSTROM.exe
+c:\users\sogat\documents\visual studio 2012\Projects\AMSTROM\AMSTROM\bin\Debug\AMSTROM.pdb
+c:\users\sogat\documents\visual studio 2012\Projects\AMSTROM\AMSTROM\obj\Debug\AMSTROM.exe
+c:\users\sogat\documents\visual studio 2012\Projects\AMSTROM\AMSTROM\obj\Debug\AMSTROM.pdb

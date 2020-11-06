@@ -1,0 +1,6 @@
+c:\users\sogat\documents\visual studio 2012\Projects\whileloopaddition\whileloopaddition\bin\Debug\whileloopaddition.exe.config
+c:\users\sogat\documents\visual studio 2012\Projects\whileloopaddition\whileloopaddition\bin\Debug\whileloopaddition.exe
+c:\users\sogat\documents\visual studio 2012\Projects\whileloopaddition\whileloopaddition\bin\Debug\whileloopaddition.pdb
+c:\users\sogat\documents\visual studio 2012\Projects\whileloopaddition\whileloopaddition\obj\Debug\whileloopaddition.csprojResolveAssemblyReference.cache
+c:\users\sogat\documents\visual studio 2012\Projects\whileloopaddition\whileloopaddition\obj\Debug\whileloopaddition.exe
+c:\users\sogat\documents\visual studio 2012\Projects\whileloopaddition\whileloopaddition\obj\Debug\whileloopaddition.pdb

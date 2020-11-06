@@ -1,0 +1,5 @@
+c:\users\sogat\documents\visual studio 2012\Projects\arrow_ali\arrow_ali\bin\Debug\arrow_ali.exe.config
+c:\users\sogat\documents\visual studio 2012\Projects\arrow_ali\arrow_ali\bin\Debug\arrow_ali.exe
+c:\users\sogat\documents\visual studio 2012\Projects\arrow_ali\arrow_ali\bin\Debug\arrow_ali.pdb
+c:\users\sogat\documents\visual studio 2012\Projects\arrow_ali\arrow_ali\obj\Debug\arrow_ali.exe
+c:\users\sogat\documents\visual studio 2012\Projects\arrow_ali\arrow_ali\obj\Debug\arrow_ali.pdb

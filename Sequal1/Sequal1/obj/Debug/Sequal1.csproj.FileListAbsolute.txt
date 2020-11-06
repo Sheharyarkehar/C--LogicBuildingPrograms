@@ -1,0 +1,9 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Sequal1\Sequal1\bin\Debug\Sequal1.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Sequal1\Sequal1\bin\Debug\Sequal1.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Sequal1\Sequal1\bin\Debug\Sequal1.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Sequal1\Sequal1\obj\Debug\Sequal1.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Sequal1\Sequal1\obj\Debug\Sequal1.Form1.resources
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Sequal1\Sequal1\obj\Debug\Sequal1.Properties.Resources.resources
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Sequal1\Sequal1\obj\Debug\Sequal1.csproj.GenerateResource.Cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Sequal1\Sequal1\obj\Debug\Sequal1.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Sequal1\Sequal1\obj\Debug\Sequal1.pdb

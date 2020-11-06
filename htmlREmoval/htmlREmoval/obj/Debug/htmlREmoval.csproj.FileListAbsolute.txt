@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\htmlREmoval\htmlREmoval\bin\Debug\htmlREmoval.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\htmlREmoval\htmlREmoval\bin\Debug\htmlREmoval.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\htmlREmoval\htmlREmoval\bin\Debug\htmlREmoval.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\htmlREmoval\htmlREmoval\obj\Debug\htmlREmoval.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\htmlREmoval\htmlREmoval\obj\Debug\htmlREmoval.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\htmlREmoval\htmlREmoval\obj\Debug\htmlREmoval.csprojResolveAssemblyReference.cache

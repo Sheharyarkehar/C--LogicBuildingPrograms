@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\arrayLArgest\arrayLArgest\bin\Debug\arrayLArgest.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\arrayLArgest\arrayLArgest\bin\Debug\arrayLArgest.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\arrayLArgest\arrayLArgest\bin\Debug\arrayLArgest.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\arrayLArgest\arrayLArgest\obj\Debug\arrayLArgest.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\arrayLArgest\arrayLArgest\obj\Debug\arrayLArgest.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\arrayLArgest\arrayLArgest\obj\Debug\arrayLArgest.pdb

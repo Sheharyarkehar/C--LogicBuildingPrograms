@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\great\great\bin\Debug\great.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\great\great\bin\Debug\great.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\great\great\bin\Debug\great.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\great\great\obj\Debug\great.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\great\great\obj\Debug\great.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\great\great\obj\Debug\great.pdb

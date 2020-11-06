@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\alphabetSort\alphabetSort\bin\Debug\alphabetSort.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\alphabetSort\alphabetSort\bin\Debug\alphabetSort.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\alphabetSort\alphabetSort\bin\Debug\alphabetSort.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\alphabetSort\alphabetSort\obj\Debug\alphabetSort.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\alphabetSort\alphabetSort\obj\Debug\alphabetSort.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\alphabetSort\alphabetSort\obj\Debug\alphabetSort.pdb

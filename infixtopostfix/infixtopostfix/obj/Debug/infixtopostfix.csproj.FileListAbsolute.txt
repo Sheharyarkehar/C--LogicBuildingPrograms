@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\infixtopostfix\infixtopostfix\bin\Debug\infixtopostfix.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\infixtopostfix\infixtopostfix\obj\Debug\infixtopostfix.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\infixtopostfix\infixtopostfix\bin\Debug\infixtopostfix.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\infixtopostfix\infixtopostfix\bin\Debug\infixtopostfix.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\infixtopostfix\infixtopostfix\obj\Debug\infixtopostfix.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\infixtopostfix\infixtopostfix\obj\Debug\infixtopostfix.pdb

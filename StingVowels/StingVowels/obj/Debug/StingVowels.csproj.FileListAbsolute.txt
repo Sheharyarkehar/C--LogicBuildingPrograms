@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\StingVowels\StingVowels\bin\Debug\StingVowels.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\StingVowels\StingVowels\obj\Debug\StingVowels.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\StingVowels\StingVowels\bin\Debug\StingVowels.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\StingVowels\StingVowels\bin\Debug\StingVowels.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\StingVowels\StingVowels\obj\Debug\StingVowels.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\StingVowels\StingVowels\obj\Debug\StingVowels.pdb

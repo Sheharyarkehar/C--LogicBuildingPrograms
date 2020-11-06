@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\stringRotation\stringRotation\bin\Debug\stringRotation.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\stringRotation\stringRotation\bin\Debug\stringRotation.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\stringRotation\stringRotation\bin\Debug\stringRotation.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\stringRotation\stringRotation\obj\Debug\stringRotation.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\stringRotation\stringRotation\obj\Debug\stringRotation.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\stringRotation\stringRotation\obj\Debug\stringRotation.pdb

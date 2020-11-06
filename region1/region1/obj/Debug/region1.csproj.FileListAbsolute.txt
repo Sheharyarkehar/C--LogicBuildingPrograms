@@ -1,0 +1,6 @@
+c:\users\sogat\documents\visual studio 2012\Projects\region1\region1\bin\Debug\region1.exe.config
+c:\users\sogat\documents\visual studio 2012\Projects\region1\region1\bin\Debug\region1.exe
+c:\users\sogat\documents\visual studio 2012\Projects\region1\region1\bin\Debug\region1.pdb
+c:\users\sogat\documents\visual studio 2012\Projects\region1\region1\obj\Debug\region1.csprojResolveAssemblyReference.cache
+c:\users\sogat\documents\visual studio 2012\Projects\region1\region1\obj\Debug\region1.exe
+c:\users\sogat\documents\visual studio 2012\Projects\region1\region1\obj\Debug\region1.pdb

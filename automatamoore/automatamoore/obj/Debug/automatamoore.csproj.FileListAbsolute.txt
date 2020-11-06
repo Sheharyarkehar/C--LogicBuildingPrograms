@@ -1,0 +1,5 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\automatamoore\automatamoore\bin\Debug\automatamoore.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\automatamoore\automatamoore\bin\Debug\automatamoore.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\automatamoore\automatamoore\bin\Debug\automatamoore.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\automatamoore\automatamoore\obj\Debug\automatamoore.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\automatamoore\automatamoore\obj\Debug\automatamoore.pdb

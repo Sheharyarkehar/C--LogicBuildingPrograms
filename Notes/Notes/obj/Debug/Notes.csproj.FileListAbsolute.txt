@@ -1,0 +1,6 @@
+c:\users\sogat\documents\visual studio 2012\Projects\Notes\Notes\bin\Debug\Notes.exe.config
+c:\users\sogat\documents\visual studio 2012\Projects\Notes\Notes\obj\Debug\Notes.csprojResolveAssemblyReference.cache
+c:\users\sogat\documents\visual studio 2012\Projects\Notes\Notes\bin\Debug\Notes.exe
+c:\users\sogat\documents\visual studio 2012\Projects\Notes\Notes\bin\Debug\Notes.pdb
+c:\users\sogat\documents\visual studio 2012\Projects\Notes\Notes\obj\Debug\Notes.exe
+c:\users\sogat\documents\visual studio 2012\Projects\Notes\Notes\obj\Debug\Notes.pdb

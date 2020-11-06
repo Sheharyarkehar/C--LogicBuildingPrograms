@@ -1,0 +1,5 @@
+c:\users\sogat\documents\visual studio 2012\Projects\countingoddigits\countingoddigits\bin\Debug\countingoddigits.exe.config
+c:\users\sogat\documents\visual studio 2012\Projects\countingoddigits\countingoddigits\bin\Debug\countingoddigits.exe
+c:\users\sogat\documents\visual studio 2012\Projects\countingoddigits\countingoddigits\bin\Debug\countingoddigits.pdb
+c:\users\sogat\documents\visual studio 2012\Projects\countingoddigits\countingoddigits\obj\Debug\countingoddigits.exe
+c:\users\sogat\documents\visual studio 2012\Projects\countingoddigits\countingoddigits\obj\Debug\countingoddigits.pdb

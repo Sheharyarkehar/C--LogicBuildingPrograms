@@ -1,0 +1,9 @@
+c:\users\sogat\documents\visual studio 2012\Projects\slider\slider\bin\Debug\slider.exe.config
+c:\users\sogat\documents\visual studio 2012\Projects\slider\slider\bin\Debug\slider.exe
+c:\users\sogat\documents\visual studio 2012\Projects\slider\slider\bin\Debug\slider.pdb
+c:\users\sogat\documents\visual studio 2012\Projects\slider\slider\obj\Debug\slider.csprojResolveAssemblyReference.cache
+c:\users\sogat\documents\visual studio 2012\Projects\slider\slider\obj\Debug\slider.Form1.resources
+c:\users\sogat\documents\visual studio 2012\Projects\slider\slider\obj\Debug\slider.Properties.Resources.resources
+c:\users\sogat\documents\visual studio 2012\Projects\slider\slider\obj\Debug\slider.csproj.GenerateResource.Cache
+c:\users\sogat\documents\visual studio 2012\Projects\slider\slider\obj\Debug\slider.exe
+c:\users\sogat\documents\visual studio 2012\Projects\slider\slider\obj\Debug\slider.pdb

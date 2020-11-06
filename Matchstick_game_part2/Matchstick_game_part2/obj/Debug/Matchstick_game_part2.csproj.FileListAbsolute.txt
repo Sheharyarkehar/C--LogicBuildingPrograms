@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Matchstick_game_part2\Matchstick_game_part2\bin\Debug\Matchstick_game_part2.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Matchstick_game_part2\Matchstick_game_part2\bin\Debug\Matchstick_game_part2.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Matchstick_game_part2\Matchstick_game_part2\bin\Debug\Matchstick_game_part2.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Matchstick_game_part2\Matchstick_game_part2\obj\Debug\Matchstick_game_part2.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Matchstick_game_part2\Matchstick_game_part2\obj\Debug\Matchstick_game_part2.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Matchstick_game_part2\Matchstick_game_part2\obj\Debug\Matchstick_game_part2.csprojResolveAssemblyReference.cache

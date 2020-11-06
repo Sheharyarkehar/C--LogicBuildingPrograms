@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\empHours2D\empHours2D\bin\Debug\empHours2D.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\empHours2D\empHours2D\bin\Debug\empHours2D.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\empHours2D\empHours2D\bin\Debug\empHours2D.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\empHours2D\empHours2D\obj\Debug\empHours2D.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\empHours2D\empHours2D\obj\Debug\empHours2D.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\empHours2D\empHours2D\obj\Debug\empHours2D.pdb

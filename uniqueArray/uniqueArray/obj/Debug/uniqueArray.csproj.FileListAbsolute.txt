@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\uniqueArray\uniqueArray\bin\Debug\uniqueArray.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\uniqueArray\uniqueArray\obj\Debug\uniqueArray.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\uniqueArray\uniqueArray\bin\Debug\uniqueArray.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\uniqueArray\uniqueArray\bin\Debug\uniqueArray.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\uniqueArray\uniqueArray\obj\Debug\uniqueArray.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\uniqueArray\uniqueArray\obj\Debug\uniqueArray.pdb

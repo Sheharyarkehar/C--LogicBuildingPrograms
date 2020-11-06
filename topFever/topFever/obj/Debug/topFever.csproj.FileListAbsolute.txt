@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\topFever\topFever\bin\Debug\topFever.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\topFever\topFever\bin\Debug\topFever.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\topFever\topFever\bin\Debug\topFever.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\topFever\topFever\obj\Debug\topFever.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\topFever\topFever\obj\Debug\topFever.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\topFever\topFever\obj\Debug\topFever.pdb

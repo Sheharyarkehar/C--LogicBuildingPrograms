@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\LambdaExpression\LambdaExpression\bin\Debug\LambdaExpression.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\LambdaExpression\LambdaExpression\bin\Debug\LambdaExpression.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\LambdaExpression\LambdaExpression\bin\Debug\LambdaExpression.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\LambdaExpression\LambdaExpression\obj\Debug\LambdaExpression.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\LambdaExpression\LambdaExpression\obj\Debug\LambdaExpression.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\LambdaExpression\LambdaExpression\obj\Debug\LambdaExpression.pdb

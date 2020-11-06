@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\uroosa\uroosa\bin\Debug\uroosa.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\uroosa\uroosa\bin\Debug\uroosa.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\uroosa\uroosa\bin\Debug\uroosa.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\uroosa\uroosa\obj\Debug\uroosa.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\uroosa\uroosa\obj\Debug\uroosa.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\uroosa\uroosa\obj\Debug\uroosa.pdb

@@ -1,0 +1,10 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\SecuritySurveillanceObserver\SecuritySurveillanceObserver\bin\Debug\SecuritySurveillanceObserver.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\SecuritySurveillanceObserver\SecuritySurveillanceObserver\obj\Debug\SecuritySurveillanceObserver.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\SecuritySurveillanceObserver\SecuritySurveillanceObserver\obj\Debug\SecuritySurveillanceObserver.Form1.resources
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\SecuritySurveillanceObserver\SecuritySurveillanceObserver\obj\Debug\SecuritySurveillanceObserver.Properties.Resources.resources
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\SecuritySurveillanceObserver\SecuritySurveillanceObserver\obj\Debug\SecuritySurveillanceObserver.csproj.GenerateResource.Cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\SecuritySurveillanceObserver\SecuritySurveillanceObserver\bin\Debug\SecuritySurveillanceObserver.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\SecuritySurveillanceObserver\SecuritySurveillanceObserver\bin\Debug\SecuritySurveillanceObserver.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\SecuritySurveillanceObserver\SecuritySurveillanceObserver\obj\Debug\SecuritySurveillanceObserver.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\SecuritySurveillanceObserver\SecuritySurveillanceObserver\obj\Debug\SecuritySurveillanceObserver.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\SecuritySurveillanceObserver\SecuritySurveillanceObserver\obj\Debug\SecuritySurveillanceObserver.Form2.resources

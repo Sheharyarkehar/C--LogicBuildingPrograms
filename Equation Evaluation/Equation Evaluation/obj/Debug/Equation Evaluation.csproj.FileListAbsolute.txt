@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Equation Evaluation\Equation Evaluation\bin\Debug\Equation Evaluation.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Equation Evaluation\Equation Evaluation\bin\Debug\Equation Evaluation.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Equation Evaluation\Equation Evaluation\bin\Debug\Equation Evaluation.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Equation Evaluation\Equation Evaluation\obj\Debug\Equation Evaluation.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Equation Evaluation\Equation Evaluation\obj\Debug\Equation Evaluation.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Equation Evaluation\Equation Evaluation\obj\Debug\Equation Evaluation.pdb

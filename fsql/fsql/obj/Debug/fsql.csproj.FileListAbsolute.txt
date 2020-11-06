@@ -1,0 +1,10 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\fsql\fsql\bin\Debug\fsql.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\fsql\fsql\bin\Debug\fsql.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\fsql\fsql\bin\Debug\fsql.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\fsql\fsql\obj\Debug\fsql.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\fsql\fsql\obj\Debug\fsql.Form1.resources
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\fsql\fsql\obj\Debug\fsql.Form2.resources
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\fsql\fsql\obj\Debug\fsql.Properties.Resources.resources
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\fsql\fsql\obj\Debug\fsql.csproj.GenerateResource.Cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\fsql\fsql\obj\Debug\fsql.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\fsql\fsql\obj\Debug\fsql.pdb

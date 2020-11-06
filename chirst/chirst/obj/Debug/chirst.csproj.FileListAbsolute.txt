@@ -1,0 +1,5 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\chirst\chirst\bin\Debug\chirst.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\chirst\chirst\bin\Debug\chirst.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\chirst\chirst\bin\Debug\chirst.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\chirst\chirst\obj\Debug\chirst.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\chirst\chirst\obj\Debug\chirst.pdb

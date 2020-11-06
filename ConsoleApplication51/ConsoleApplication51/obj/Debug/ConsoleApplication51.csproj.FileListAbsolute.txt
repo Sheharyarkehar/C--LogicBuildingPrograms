@@ -1,0 +1,5 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication51\ConsoleApplication51\bin\Debug\ConsoleApplication51.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication51\ConsoleApplication51\bin\Debug\ConsoleApplication51.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication51\ConsoleApplication51\bin\Debug\ConsoleApplication51.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication51\ConsoleApplication51\obj\Debug\ConsoleApplication51.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication51\ConsoleApplication51\obj\Debug\ConsoleApplication51.pdb

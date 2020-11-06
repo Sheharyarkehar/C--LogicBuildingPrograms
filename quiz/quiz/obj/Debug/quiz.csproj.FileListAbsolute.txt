@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\quiz\quiz\bin\Debug\quiz.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\quiz\quiz\bin\Debug\quiz.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\quiz\quiz\bin\Debug\quiz.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\quiz\quiz\obj\Debug\quiz.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\quiz\quiz\obj\Debug\quiz.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\quiz\quiz\obj\Debug\quiz.pdb

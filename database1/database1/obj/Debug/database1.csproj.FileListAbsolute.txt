@@ -1,0 +1,9 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\database1\database1\bin\Debug\database1.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\database1\database1\bin\Debug\database1.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\database1\database1\bin\Debug\database1.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\database1\database1\obj\Debug\database1.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\database1\database1\obj\Debug\database1.StudentForm.resources
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\database1\database1\obj\Debug\database1.Properties.Resources.resources
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\database1\database1\obj\Debug\database1.csproj.GenerateResource.Cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\database1\database1\obj\Debug\database1.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\database1\database1\obj\Debug\database1.pdb

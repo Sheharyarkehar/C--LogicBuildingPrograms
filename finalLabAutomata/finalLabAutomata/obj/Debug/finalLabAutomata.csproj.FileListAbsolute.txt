@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\finalLabAutomata\finalLabAutomata\bin\Debug\finalLabAutomata.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\finalLabAutomata\finalLabAutomata\bin\Debug\finalLabAutomata.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\finalLabAutomata\finalLabAutomata\bin\Debug\finalLabAutomata.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\finalLabAutomata\finalLabAutomata\obj\Debug\finalLabAutomata.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\finalLabAutomata\finalLabAutomata\obj\Debug\finalLabAutomata.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\finalLabAutomata\finalLabAutomata\obj\Debug\finalLabAutomata.csprojResolveAssemblyReference.cache

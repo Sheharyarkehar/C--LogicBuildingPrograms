@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Rand\Rand\bin\Debug\Rand.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Rand\Rand\bin\Debug\Rand.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Rand\Rand\bin\Debug\Rand.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Rand\Rand\obj\Debug\Rand.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Rand\Rand\obj\Debug\Rand.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\Rand\Rand\obj\Debug\Rand.pdb

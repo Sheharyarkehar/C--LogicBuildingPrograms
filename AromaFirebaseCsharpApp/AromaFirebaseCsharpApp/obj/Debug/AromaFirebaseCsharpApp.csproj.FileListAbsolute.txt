@@ -1,0 +1,12 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\AromaFirebaseCsharpApp\AromaFirebaseCsharpApp\bin\Debug\AromaFirebaseCsharpApp.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\AromaFirebaseCsharpApp\AromaFirebaseCsharpApp\bin\Debug\AromaFirebaseCsharpApp.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\AromaFirebaseCsharpApp\AromaFirebaseCsharpApp\bin\Debug\AromaFirebaseCsharpApp.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\AromaFirebaseCsharpApp\AromaFirebaseCsharpApp\obj\Debug\AromaFirebaseCsharpApp.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\AromaFirebaseCsharpApp\AromaFirebaseCsharpApp\obj\Debug\AromaFirebaseCsharpApp.Controls.TitleBar.resources
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\AromaFirebaseCsharpApp\AromaFirebaseCsharpApp\obj\Debug\AromaFirebaseCsharpApp.Controls.VersionWriter.resources
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\AromaFirebaseCsharpApp\AromaFirebaseCsharpApp\obj\Debug\AromaFirebaseCsharpApp.Properties.Resources.resources
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\AromaFirebaseCsharpApp\AromaFirebaseCsharpApp\obj\Debug\AromaFirebaseCsharpApp.csproj.GenerateResource.Cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\AromaFirebaseCsharpApp\AromaFirebaseCsharpApp\obj\Debug\AromaFirebaseCsharpApp.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\AromaFirebaseCsharpApp\AromaFirebaseCsharpApp\obj\Debug\AromaFirebaseCsharpApp.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\AromaFirebaseCsharpApp\AromaFirebaseCsharpApp\obj\Debug\AromaFirebaseCsharpApp.Form1.resources
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\AromaFirebaseCsharpApp\AromaFirebaseCsharpApp\bin\Debug\AromaFirebaseCsharpApp.XML

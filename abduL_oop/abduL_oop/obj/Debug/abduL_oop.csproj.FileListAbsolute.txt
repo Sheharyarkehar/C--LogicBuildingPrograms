@@ -1,0 +1,6 @@
+c:\users\sogat\documents\visual studio 2012\Projects\abduL_oop\abduL_oop\bin\Debug\abduL_oop.exe.config
+c:\users\sogat\documents\visual studio 2012\Projects\abduL_oop\abduL_oop\bin\Debug\abduL_oop.exe
+c:\users\sogat\documents\visual studio 2012\Projects\abduL_oop\abduL_oop\bin\Debug\abduL_oop.pdb
+c:\users\sogat\documents\visual studio 2012\Projects\abduL_oop\abduL_oop\obj\Debug\abduL_oop.csprojResolveAssemblyReference.cache
+c:\users\sogat\documents\visual studio 2012\Projects\abduL_oop\abduL_oop\obj\Debug\abduL_oop.exe
+c:\users\sogat\documents\visual studio 2012\Projects\abduL_oop\abduL_oop\obj\Debug\abduL_oop.pdb

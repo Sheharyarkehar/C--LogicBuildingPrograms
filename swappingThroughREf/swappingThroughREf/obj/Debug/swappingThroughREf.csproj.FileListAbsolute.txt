@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\swappingThroughREf\swappingThroughREf\bin\Debug\swappingThroughREf.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\swappingThroughREf\swappingThroughREf\bin\Debug\swappingThroughREf.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\swappingThroughREf\swappingThroughREf\bin\Debug\swappingThroughREf.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\swappingThroughREf\swappingThroughREf\obj\Debug\swappingThroughREf.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\swappingThroughREf\swappingThroughREf\obj\Debug\swappingThroughREf.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\swappingThroughREf\swappingThroughREf\obj\Debug\swappingThroughREf.pdb

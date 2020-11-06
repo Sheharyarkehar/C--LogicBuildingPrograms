@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\tic\tic\bin\Debug\tic.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\tic\tic\bin\Debug\tic.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\tic\tic\bin\Debug\tic.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\tic\tic\obj\Debug\tic.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\tic\tic\obj\Debug\tic.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\tic\tic\obj\Debug\tic.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\automata8\automata8\bin\Debug\automata8.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\automata8\automata8\obj\Debug\automata8.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\automata8\automata8\bin\Debug\automata8.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\automata8\automata8\bin\Debug\automata8.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\automata8\automata8\obj\Debug\automata8.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\automata8\automata8\obj\Debug\automata8.pdb

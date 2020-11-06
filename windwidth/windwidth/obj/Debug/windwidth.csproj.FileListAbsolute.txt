@@ -1,0 +1,6 @@
+c:\users\sogat\documents\visual studio 2012\Projects\windwidth\windwidth\bin\Debug\windwidth.exe.config
+c:\users\sogat\documents\visual studio 2012\Projects\windwidth\windwidth\bin\Debug\windwidth.exe
+c:\users\sogat\documents\visual studio 2012\Projects\windwidth\windwidth\bin\Debug\windwidth.pdb
+c:\users\sogat\documents\visual studio 2012\Projects\windwidth\windwidth\obj\Debug\windwidth.csprojResolveAssemblyReference.cache
+c:\users\sogat\documents\visual studio 2012\Projects\windwidth\windwidth\obj\Debug\windwidth.exe
+c:\users\sogat\documents\visual studio 2012\Projects\windwidth\windwidth\obj\Debug\windwidth.pdb

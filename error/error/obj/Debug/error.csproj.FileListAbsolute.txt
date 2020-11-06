@@ -1,0 +1,5 @@
+c:\users\sogat\documents\visual studio 2012\Projects\error\error\bin\Debug\error.exe.config
+c:\users\sogat\documents\visual studio 2012\Projects\error\error\bin\Debug\error.exe
+c:\users\sogat\documents\visual studio 2012\Projects\error\error\bin\Debug\error.pdb
+c:\users\sogat\documents\visual studio 2012\Projects\error\error\obj\Debug\error.exe
+c:\users\sogat\documents\visual studio 2012\Projects\error\error\obj\Debug\error.pdb

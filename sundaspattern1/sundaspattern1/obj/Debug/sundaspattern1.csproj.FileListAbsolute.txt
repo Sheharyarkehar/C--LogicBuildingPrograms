@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\sundaspattern1\sundaspattern1\bin\Debug\sundaspattern1.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\sundaspattern1\sundaspattern1\bin\Debug\sundaspattern1.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\sundaspattern1\sundaspattern1\bin\Debug\sundaspattern1.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\sundaspattern1\sundaspattern1\obj\Debug\sundaspattern1.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\sundaspattern1\sundaspattern1\obj\Debug\sundaspattern1.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\sundaspattern1\sundaspattern1\obj\Debug\sundaspattern1.csprojResolveAssemblyReference.cache

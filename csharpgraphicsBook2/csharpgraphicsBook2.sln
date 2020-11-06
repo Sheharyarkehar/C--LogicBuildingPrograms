@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharpgraphicsBook2", "csharpgraphicsBook2\csharpgraphicsBook2.csproj", "{D40E1788-94C6-479D-82D6-DF3A6F0DDF5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D40E1788-94C6-479D-82D6-DF3A6F0DDF5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D40E1788-94C6-479D-82D6-DF3A6F0DDF5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D40E1788-94C6-479D-82D6-DF3A6F0DDF5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D40E1788-94C6-479D-82D6-DF3A6F0DDF5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

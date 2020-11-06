@@ -1,0 +1,11 @@
+c:\users\sogat\documents\visual studio 2012\Projects\dll_link\dll_link\bin\Debug\dll_link.exe.config
+c:\users\sogat\documents\visual studio 2012\Projects\dll_link\dll_link\obj\Debug\dll_link.csprojResolveAssemblyReference.cache
+c:\users\sogat\documents\visual studio 2012\Projects\dll_link\dll_link\obj\Debug\dll_link.Form1.resources
+c:\users\sogat\documents\visual studio 2012\Projects\dll_link\dll_link\obj\Debug\dll_link.Properties.Resources.resources
+c:\users\sogat\documents\visual studio 2012\Projects\dll_link\dll_link\obj\Debug\dll_link.csproj.GenerateResource.Cache
+c:\users\sogat\documents\visual studio 2012\Projects\dll_link\dll_link\bin\Debug\dll_link.exe
+c:\users\sogat\documents\visual studio 2012\Projects\dll_link\dll_link\bin\Debug\dll_link.pdb
+c:\users\sogat\documents\visual studio 2012\Projects\dll_link\dll_link\bin\Debug\ClassLibrary1.dll
+c:\users\sogat\documents\visual studio 2012\Projects\dll_link\dll_link\bin\Debug\ClassLibrary1.pdb
+c:\users\sogat\documents\visual studio 2012\Projects\dll_link\dll_link\obj\Debug\dll_link.exe
+c:\users\sogat\documents\visual studio 2012\Projects\dll_link\dll_link\obj\Debug\dll_link.pdb

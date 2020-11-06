@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\files(directory)\files(directory)\bin\Debug\files(directory).exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\files(directory)\files(directory)\bin\Debug\files(directory).exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\files(directory)\files(directory)\bin\Debug\files(directory).pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\files(directory)\files(directory)\obj\Debug\files(directory).csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\files(directory)\files(directory)\obj\Debug\files(directory).exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\files(directory)\files(directory)\obj\Debug\files(directory).pdb

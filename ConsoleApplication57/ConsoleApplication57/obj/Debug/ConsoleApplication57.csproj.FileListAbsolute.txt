@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication57\ConsoleApplication57\bin\Debug\ConsoleApplication57.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication57\ConsoleApplication57\bin\Debug\ConsoleApplication57.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication57\ConsoleApplication57\bin\Debug\ConsoleApplication57.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication57\ConsoleApplication57\obj\Debug\ConsoleApplication57.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication57\ConsoleApplication57\obj\Debug\ConsoleApplication57.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\ConsoleApplication57\ConsoleApplication57\obj\Debug\ConsoleApplication57.pdb

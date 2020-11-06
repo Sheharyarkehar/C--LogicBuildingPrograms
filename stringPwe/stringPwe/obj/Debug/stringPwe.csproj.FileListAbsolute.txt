@@ -1,0 +1,6 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\stringPwe\stringPwe\bin\Debug\stringPwe.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\stringPwe\stringPwe\bin\Debug\stringPwe.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\stringPwe\stringPwe\bin\Debug\stringPwe.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\stringPwe\stringPwe\obj\Debug\stringPwe.csprojResolveAssemblyReference.cache
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\stringPwe\stringPwe\obj\Debug\stringPwe.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\stringPwe\stringPwe\obj\Debug\stringPwe.pdb

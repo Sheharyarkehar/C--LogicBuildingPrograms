@@ -1,0 +1,6 @@
+c:\users\sogat\documents\visual studio 2012\Projects\check_alpha\check_alpha\bin\Debug\check_alpha.exe.config
+c:\users\sogat\documents\visual studio 2012\Projects\check_alpha\check_alpha\bin\Debug\check_alpha.exe
+c:\users\sogat\documents\visual studio 2012\Projects\check_alpha\check_alpha\bin\Debug\check_alpha.pdb
+c:\users\sogat\documents\visual studio 2012\Projects\check_alpha\check_alpha\obj\Debug\check_alpha.csprojResolveAssemblyReference.cache
+c:\users\sogat\documents\visual studio 2012\Projects\check_alpha\check_alpha\obj\Debug\check_alpha.exe
+c:\users\sogat\documents\visual studio 2012\Projects\check_alpha\check_alpha\obj\Debug\check_alpha.pdb

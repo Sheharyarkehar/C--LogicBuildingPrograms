@@ -1,0 +1,5 @@
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\WordCount\WordCount\bin\Debug\WordCount.exe.config
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\WordCount\WordCount\bin\Debug\WordCount.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\WordCount\WordCount\bin\Debug\WordCount.pdb
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\WordCount\WordCount\obj\Debug\WordCount.exe
+C:\Users\Sogat\Documents\Visual Studio 2012\Projects\WordCount\WordCount\obj\Debug\WordCount.pdb
